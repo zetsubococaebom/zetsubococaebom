@@ -10,14 +10,6 @@
   <img src="https://telegra.ph/file/200d2e2ed9124a6d05be6.jpg" width="300">
 </p>
 
-<div align="center">
-  <p>
-*# Selamat datang di Dunia Zetsuboxygen! 🚀🌟*
-
-*Hai, saya Ryo Ananda Pratiwi, tapi Anda bisa memanggil saya Zetsuboxygen, si penyihir kode! 💻🧙‍♂️. Inilah tempat di mana pesona kode terjadi, di mana ide-ide menjadi kenyataan. Jelajahi ranah saya yang penuh dengan proyek, kreativitas, dan petualangan pemrograman. 🌌Rasakan sensasinya dan bergabunglah dalam perjalanan luar biasa ini! ✨🚀*
-  </p>
-</div>
-
 <h3 align="center">More About Me</h3>
 </div>
 
